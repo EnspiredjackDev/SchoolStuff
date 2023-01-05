@@ -202,7 +202,7 @@ def calculate_discount():
     if returning_customer == "YES" or returning_customer == "Y" and len_discount == "Yes":
         print("Weclome back. A loyalty discount has been applied to your bill")
         print("Also get a discount for staying for 10 nights or more")
-        discounts = (discounts * discounts) + (discounts * discounts)
+        discounts = (discounts * discount1) + (discounts * discount2)
         return discounts
     elif returning_customer == "YES" or returning_customer == "Y" and len_discount == "No":
         print("Weclome back. A loyalty discount has been applied to your bill")
@@ -211,6 +211,9 @@ def calculate_discount():
     elif returning_customer == "NO" or returning_customer == "N" and len_discount == "Yes":
         print("You have been given a discount for staying for 10 nights or more")
         discounts = (discounts * discount2)
+        return discounts
+    elif returning_customer == "NO" or returning_customer == "N" and len_discount == "No":
+        discounts = 0
         return discounts
 
 discount_value = calculate_discount()
@@ -242,23 +245,23 @@ print("Total cost of stay: £", totalCost)
 
 #output to text file
 with open("reciept.txt", "w") as txt:
-    txt.write("Here is a reciept for you records")
-    txt.write("#########Booking Details##############")
-    txt.write("Name: {}".format(name))
-    txt.write("Address: {}".format(address))
-    txt.write("Phone Number:{}".format(phone_number))
-    txt.write ("Email: {}".format(email_add))
-    txt.write("Booked Hotel: {}".format(location))
-    txt.write ("Date of Arrival:{}".format(date))
-    txt.write("Number of Nights: {}".format(number_of_nights))
-    txt.write("Number of People: {}".format(number_people))
-    txt.write("Breakfast:{}".format(breakfast))
+    txt.write("Here is a reciept for your records\n")
+    txt.write("#########Booking Details##############\n")
+    txt.write("Name: {}\n".format(name))
+    txt.write("Address: {}\n".format(address))
+    txt.write("Phone Number:{}\n".format(phone_number))
+    txt.write("Email: {}\n".format(email_add))
+    txt.write("Booked Hotel: {}\n".format(location))
+    txt.write("Date of Arrival:{}\n".format(date))
+    txt.write("Number of Nights: {}\n".format(number_of_nights))
+    txt.write("Number of People: {}\n".format(number_people))
+    txt.write("Breakfast:{}\n".format(breakfast))
     txt.write("\n")
-    txt.write("##############Costs################")
-    txt.write("Room: £ {}".format(room_cost))
-    txt.write("Breakfast: £{}".format(breakfast_cost))
-    txt.write("Return Discount: {}".format(returning_customer))
-    txt.write("10 Nights or More: {}".format(len_discount))
-    txt.write("Cost before discounts: £ {}".format(subtotal))
-    txt.write("Discounts: -£{}".format(discount_value))
-    txt.write("Total cost of stay: £ {}".format(totalCost))   
+    txt.write("##############Costs################\n")
+    txt.write("Room: £ {}\n".format(room_cost))
+    txt.write("Breakfast: £{}\n".format(breakfast_cost))
+    txt.write("Return Discount: {}\n".format(returning_customer))
+    txt.write("10 Nights or More: {}\n".format(len_discount))
+    txt.write("Cost before discounts: £ {}\n".format(subtotal))
+    txt.write("Discounts: -£{}\n".format(discount_value))
+    txt.write("Total cost of stay: £ {}\n".format(totalCost))   
