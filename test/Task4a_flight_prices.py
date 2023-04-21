@@ -91,7 +91,7 @@ def flights_by_airline(df):
     plt.show()
 
 # Load data and analyze trends and patterns
-data = pd.read_csv("/home/Jack/Documents/SchoolStuff/Task 4A/Task4_data.csv")
+data = pd.read_csv("/home/Jack/Documents/SchoolStuff/test/Task4a_data.csv")
 
 most_popular_destinations(data)
 commission_by_month(data)

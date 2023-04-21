@@ -1,0 +1,1001 @@
+Month,Desination,Airline,Price,Commission (%)
+January,Dublin,JetWay,150.50,4
+January,Budapest,Barry Air,215.50,3.5
+January,Cologne,Super Jet,150.50,3.5
+January,Athens,Yorkshire Airlines,149.99,4
+January,Alicante,Super Jet,99.00,3.5
+January,Paris,Yorkshire Airlines,80.00,4
+January,Dublin,Yorkshire Airlines,149.99,4
+January,Cologne,Lift,249.00,4.5
+January,Amsterdam,Lift,150.50,4.5
+January,Munich,Super Jet,99.00,3.5
+January,Dublin,Lift,48.99,4.5
+January,Rhodes,Lift,48.99,4.5
+January,Rhodes,Yorkshire Airlines,80.00,4
+January,Alicante,Barry Air,215.50,3.5
+January,Alicante,Yorkshire Airlines,249.00,4
+January,Athens,Barry Air,150.50,3.5
+January,Alicante,Lift,249.00,4.5
+January,Paris,Lift,150.50,4.5
+January,Athens,Yorkshire Airlines,249.00,4
+January,Alicante,Lift,249.00,4.5
+January,Alicante,Barry Air,215.50,3.5
+January,Munich,Yorkshire Airlines,149.99,4
+January,Dublin,JetWay,80.00,4
+January,Alicante,Yorkshire Airlines,48.99,4
+January,Alicante,Yorkshire Airlines,215.50,4
+January,Athens,JetWay,150.50,4
+January,Cologne,Lift,150.50,4.5
+January,Dublin,Lift,150.50,4.5
+January,Dublin,Barry Air,149.99,3.5
+January,Amsterdam,JetWay,150.50,4
+January,Munich,Super Jet,249.00,3.5
+January,Alicante,JetWay,48.99,4
+January,Alicante,Lift,99.00,4.5
+January,Amsterdam,Super Jet,80.00,3.5
+January,Dublin,Super Jet,149.99,3.5
+January,Athens,Barry Air,99.00,3.5
+January,Amsterdam,Super Jet,48.99,3.5
+January,Budapest,Barry Air,150.50,3.5
+January,Alicante,JetWay,48.99,4
+January,Alicante,Super Jet,150.50,3.5
+January,Rhodes,Lift,48.99,4.5
+January,Munich,Barry Air,215.50,3.5
+January,Munich,JetWay,150.50,4
+January,Amsterdam,Lift,99.00,4.5
+January,Munich,Lift,149.99,4.5
+January,Rhodes,Yorkshire Airlines,150.50,4
+January,Cologne,JetWay,149.99,4
+January,Alicante,Barry Air,215.50,3.5
+January,Paris,Barry Air,48.99,3.5
+January,Alicante,Lift,99.00,4.5
+January,Amsterdam,Yorkshire Airlines,99.00,4
+January,Alicante,Lift,149.99,4.5
+January,Alicante,Lift,149.99,4.5
+January,Dublin,Super Jet,99.00,3.5
+January,Rhodes,JetWay,150.50,4
+January,Paris,Lift,150.50,4.5
+January,Alicante,Super Jet,80.00,3.5
+January,Athens,JetWay,149.99,4
+January,Alicante,Barry Air,149.99,3.5
+January,Rhodes,Barry Air,249.00,3.5
+January,Cologne,Yorkshire Airlines,80.00,4
+February,Cologne,Lift,48.99,4.5
+February,Rhodes,Lift,215.50,4.5
+February,Athens,Yorkshire Airlines,149.99,4
+February,Cologne,Barry Air,99.00,3.5
+February,Alicante,JetWay,99.00,4
+February,Athens,Super Jet,149.99,3.5
+February,Cologne,JetWay,99.00,4
+February,Rhodes,JetWay,149.99,4
+February,Dublin,JetWay,149.99,4
+February,Rhodes,Lift,150.50,4.5
+February,Athens,JetWay,48.99,4
+February,Cologne,JetWay,149.99,4
+February,Alicante,Lift,99.00,4.5
+February,Amsterdam,Yorkshire Airlines,80.00,4
+February,Alicante,JetWay,215.50,4
+February,Rhodes,Barry Air,150.50,3.5
+February,Alicante,Lift,249.00,4.5
+February,Athens,JetWay,149.99,4
+February,Alicante,Yorkshire Airlines,249.00,4
+February,Paris,Super Jet,149.99,3.5
+February,Rhodes,Barry Air,150.50,3.5
+February,Amsterdam,JetWay,249.00,4
+February,Alicante,Barry Air,150.50,3.5
+February,Alicante,Barry Air,149.99,3.5
+February,Alicante,Super Jet,215.50,3.5
+February,Athens,Barry Air,215.50,3.5
+February,Cologne,Yorkshire Airlines,99.00,4
+February,Dublin,Super Jet,150.50,3.5
+February,Dublin,Super Jet,150.50,3.5
+February,Alicante,Lift,80.00,4.5
+February,Alicante,Yorkshire Airlines,80.00,4
+February,Rhodes,Yorkshire Airlines,99.00,4
+February,Athens,Super Jet,48.99,3.5
+February,Dublin,Barry Air,149.99,3.5
+February,Alicante,Lift,48.99,4.5
+February,Munich,Yorkshire Airlines,149.99,4
+February,Amsterdam,Super Jet,149.99,3.5
+February,Budapest,Super Jet,99.00,3.5
+February,Munich,Barry Air,149.99,3.5
+February,Athens,JetWay,48.99,4
+February,Alicante,JetWay,99.00,4
+February,Rhodes,Super Jet,150.50,3.5
+February,Rhodes,Super Jet,149.99,3.5
+March,Alicante,Lift,150.50,4.5
+March,Budapest,Yorkshire Airlines,150.50,4
+March,Athens,Lift,149.99,4.5
+March,Amsterdam,Lift,80.00,4.5
+March,Munich,Barry Air,99.00,3.5
+March,Dublin,Super Jet,215.50,3.5
+March,Munich,Barry Air,215.50,3.5
+March,Cologne,Yorkshire Airlines,99.00,4
+March,Rhodes,Yorkshire Airlines,149.99,4
+March,Munich,Barry Air,150.50,3.5
+March,Amsterdam,Lift,215.50,4.5
+March,Rhodes,Super Jet,150.50,3.5
+March,Dublin,Lift,249.00,4.5
+March,Budapest,Barry Air,149.99,3.5
+March,Athens,Yorkshire Airlines,99.00,4
+March,Budapest,Lift,149.99,4.5
+March,Dublin,Super Jet,249.00,3.5
+March,Rhodes,JetWay,149.99,4
+March,Cologne,Yorkshire Airlines,150.50,4
+March,Cologne,Lift,150.50,4.5
+March,Cologne,Barry Air,150.50,3.5
+March,Budapest,Yorkshire Airlines,150.50,4
+March,Athens,Yorkshire Airlines,150.50,4
+March,Rhodes,Lift,99.00,4.5
+March,Rhodes,Yorkshire Airlines,48.99,4
+March,Amsterdam,Super Jet,99.00,3.5
+March,Munich,Super Jet,99.00,3.5
+March,Alicante,JetWay,249.00,4
+March,Athens,Lift,150.50,4.5
+March,Munich,Yorkshire Airlines,99.00,4
+March,Alicante,Barry Air,150.50,3.5
+March,Budapest,Lift,99.00,4.5
+March,Paris,Yorkshire Airlines,99.00,4
+March,Rhodes,Super Jet,80.00,3.5
+March,Rhodes,Lift,150.50,4.5
+March,Cologne,Barry Air,80.00,3.5
+March,Amsterdam,JetWay,99.00,4
+March,Rhodes,Lift,150.50,4.5
+March,Amsterdam,Barry Air,80.00,3.5
+March,Alicante,Barry Air,48.99,3.5
+March,Munich,Yorkshire Airlines,149.99,4
+March,Paris,Lift,80.00,4.5
+March,Alicante,Super Jet,80.00,3.5
+March,Budapest,Lift,150.50,4.5
+March,Rhodes,JetWay,80.00,4
+March,Paris,Lift,150.50,4.5
+March,Amsterdam,JetWay,249.00,4
+March,Paris,Lift,149.99,4.5
+March,Alicante,Barry Air,80.00,3.5
+March,Alicante,Barry Air,149.99,3.5
+March,Dublin,Super Jet,48.99,3.5
+March,Paris,Yorkshire Airlines,215.50,4
+March,Rhodes,Lift,149.99,4.5
+March,Rhodes,Yorkshire Airlines,99.00,4
+March,Athens,Super Jet,99.00,3.5
+March,Rhodes,Lift,150.50,4.5
+March,Alicante,Lift,149.99,4.5
+March,Alicante,JetWay,149.99,4
+March,Alicante,JetWay,99.00,4
+March,Munich,Lift,150.50,4.5
+March,Dublin,Barry Air,149.99,3.5
+March,Alicante,JetWay,99.00,4
+March,Amsterdam,Super Jet,99.00,3.5
+March,Athens,Yorkshire Airlines,99.00,4
+March,Rhodes,Yorkshire Airlines,249.00,4
+March,Amsterdam,Barry Air,149.99,3.5
+March,Cologne,JetWay,150.50,4
+March,Alicante,Barry Air,99.00,3.5
+March,Alicante,JetWay,215.50,4
+March,Budapest,JetWay,99.00,4
+March,Cologne,Yorkshire Airlines,80.00,4
+March,Amsterdam,Yorkshire Airlines,150.50,4
+March,Alicante,JetWay,149.99,4
+March,Munich,Barry Air,150.50,3.5
+March,Rhodes,Yorkshire Airlines,99.00,4
+March,Rhodes,Lift,149.99,4.5
+March,Athens,JetWay,150.50,4
+March,Athens,Lift,48.99,4.5
+March,Alicante,JetWay,80.00,4
+March,Dublin,Super Jet,215.50,3.5
+April,Amsterdam,Barry Air,99.00,3.5
+April,Amsterdam,Yorkshire Airlines,48.99,4
+April,Athens,Lift,80.00,4.5
+April,Amsterdam,Barry Air,149.99,3.5
+April,Cologne,Super Jet,249.00,3.5
+April,Munich,Super Jet,150.50,3.5
+April,Alicante,Barry Air,150.50,3.5
+April,Alicante,Barry Air,249.00,3.5
+April,Budapest,Yorkshire Airlines,150.50,4
+April,Rhodes,Barry Air,99.00,3.5
+April,Athens,Lift,48.99,4.5
+April,Rhodes,JetWay,80.00,4
+April,Athens,Barry Air,149.99,3.5
+April,Athens,Yorkshire Airlines,48.99,4
+April,Alicante,Barry Air,249.00,3.5
+April,Alicante,JetWay,99.00,4
+April,Alicante,Yorkshire Airlines,149.99,4
+April,Paris,Super Jet,99.00,3.5
+April,Rhodes,Super Jet,99.00,3.5
+April,Budapest,Yorkshire Airlines,48.99,4
+April,Alicante,JetWay,150.50,4
+April,Budapest,Yorkshire Airlines,150.50,4
+April,Athens,Lift,149.99,4.5
+April,Alicante,Super Jet,215.50,3.5
+April,Alicante,Barry Air,215.50,3.5
+April,Athens,Barry Air,249.00,3.5
+April,Rhodes,Barry Air,150.50,3.5
+April,Cologne,Super Jet,249.00,3.5
+April,Budapest,Lift,48.99,4.5
+April,Alicante,JetWay,149.99,4
+April,Cologne,JetWay,150.50,4
+April,Paris,Super Jet,149.99,3.5
+April,Rhodes,Super Jet,249.00,3.5
+April,Dublin,Lift,99.00,4.5
+April,Alicante,Lift,80.00,4.5
+April,Cologne,Yorkshire Airlines,48.99,4
+April,Athens,Super Jet,150.50,3.5
+April,Athens,Super Jet,99.00,3.5
+April,Alicante,Lift,150.50,4.5
+April,Cologne,Super Jet,150.50,3.5
+April,Budapest,Barry Air,150.50,3.5
+April,Amsterdam,Super Jet,80.00,3.5
+April,Alicante,Barry Air,99.00,3.5
+April,Budapest,Barry Air,80.00,3.5
+April,Cologne,Super Jet,99.00,3.5
+April,Alicante,Lift,80.00,4.5
+May,Budapest,Lift,99.00,4.5
+May,Paris,Barry Air,80.00,3.5
+May,Rhodes,Yorkshire Airlines,249.00,4
+May,Alicante,Yorkshire Airlines,149.99,4
+May,Amsterdam,JetWay,149.99,4
+May,Alicante,Lift,80.00,4.5
+May,Alicante,Barry Air,99.00,3.5
+May,Paris,Lift,99.00,4.5
+May,Alicante,JetWay,215.50,4
+May,Alicante,JetWay,215.50,4
+May,Budapest,Barry Air,150.50,3.5
+May,Dublin,Yorkshire Airlines,80.00,4
+May,Alicante,Lift,48.99,4.5
+May,Amsterdam,Barry Air,99.00,3.5
+May,Athens,Lift,149.99,4.5
+May,Rhodes,Lift,149.99,4.5
+May,Budapest,Yorkshire Airlines,48.99,4
+May,Cologne,JetWay,99.00,4
+May,Rhodes,Lift,249.00,4.5
+May,Dublin,Lift,80.00,4.5
+May,Cologne,Super Jet,149.99,3.5
+May,Amsterdam,Super Jet,99.00,3.5
+May,Munich,Super Jet,99.00,3.5
+May,Paris,Super Jet,80.00,3.5
+May,Budapest,Super Jet,149.99,3.5
+May,Budapest,Barry Air,80.00,3.5
+May,Paris,Barry Air,249.00,3.5
+May,Athens,Barry Air,99.00,3.5
+May,Munich,Yorkshire Airlines,149.99,4
+May,Dublin,JetWay,149.99,4
+May,Cologne,JetWay,80.00,4
+May,Athens,Super Jet,80.00,3.5
+May,Alicante,Yorkshire Airlines,80.00,4
+May,Rhodes,Barry Air,249.00,3.5
+May,Amsterdam,Super Jet,80.00,3.5
+May,Paris,Barry Air,48.99,3.5
+May,Amsterdam,JetWay,99.00,4
+May,Alicante,Barry Air,150.50,3.5
+May,Cologne,Barry Air,99.00,3.5
+May,Rhodes,Yorkshire Airlines,249.00,4
+May,Munich,JetWay,99.00,4
+May,Paris,Super Jet,99.00,3.5
+May,Rhodes,Super Jet,249.00,3.5
+May,Athens,Yorkshire Airlines,48.99,4
+May,Paris,Barry Air,48.99,3.5
+May,Athens,Super Jet,149.99,3.5
+May,Dublin,Lift,80.00,4.5
+May,Budapest,Barry Air,215.50,3.5
+May,Amsterdam,JetWay,80.00,4
+May,Amsterdam,JetWay,150.50,4
+May,Alicante,Barry Air,249.00,3.5
+May,Rhodes,Barry Air,149.99,3.5
+May,Munich,Barry Air,149.99,3.5
+May,Dublin,Lift,149.99,4.5
+May,Rhodes,Barry Air,215.50,3.5
+May,Paris,Super Jet,149.99,3.5
+May,Athens,Yorkshire Airlines,150.50,4
+June,Dublin,Yorkshire Airlines,149.99,4
+June,Rhodes,Barry Air,99.00,3.5
+June,Munich,Barry Air,150.50,3.5
+June,Rhodes,JetWay,150.50,4
+June,Paris,Lift,48.99,4.5
+June,Munich,Yorkshire Airlines,149.99,4
+June,Rhodes,Yorkshire Airlines,99.00,4
+June,Dublin,JetWay,149.99,4
+June,Rhodes,Yorkshire Airlines,80.00,4
+June,Rhodes,Super Jet,99.00,3.5
+June,Paris,Yorkshire Airlines,48.99,4
+June,Athens,Yorkshire Airlines,80.00,4
+June,Alicante,Super Jet,149.99,3.5
+June,Alicante,Lift,48.99,4.5
+June,Budapest,Barry Air,99.00,3.5
+June,Alicante,Lift,150.50,4.5
+June,Dublin,Super Jet,149.99,3.5
+June,Munich,JetWay,215.50,4
+June,Paris,Barry Air,99.00,3.5
+June,Athens,Lift,150.50,4.5
+June,Athens,JetWay,48.99,4
+June,Rhodes,Barry Air,149.99,3.5
+June,Alicante,Lift,150.50,4.5
+June,Alicante,Super Jet,80.00,3.5
+June,Athens,JetWay,48.99,4
+June,Athens,Yorkshire Airlines,249.00,4
+June,Amsterdam,Lift,80.00,4.5
+June,Budapest,Barry Air,48.99,3.5
+June,Athens,Lift,80.00,4.5
+June,Alicante,Barry Air,48.99,3.5
+June,Alicante,JetWay,150.50,4
+June,Athens,Super Jet,149.99,3.5
+June,Athens,Super Jet,249.00,3.5
+June,Alicante,Yorkshire Airlines,80.00,4
+June,Dublin,JetWay,150.50,4
+June,Alicante,Lift,80.00,4.5
+June,Amsterdam,Super Jet,150.50,3.5
+June,Rhodes,JetWay,249.00,4
+June,Dublin,JetWay,215.50,4
+June,Munich,JetWay,48.99,4
+June,Alicante,JetWay,150.50,4
+June,Alicante,Yorkshire Airlines,150.50,4
+June,Alicante,Super Jet,149.99,3.5
+June,Amsterdam,Barry Air,48.99,3.5
+June,Alicante,Yorkshire Airlines,149.99,4
+June,Paris,Yorkshire Airlines,80.00,4
+June,Munich,Lift,80.00,4.5
+June,Budapest,Lift,99.00,4.5
+June,Rhodes,JetWay,249.00,4
+June,Munich,Lift,48.99,4.5
+June,Rhodes,Super Jet,99.00,3.5
+June,Munich,JetWay,99.00,4
+June,Alicante,Super Jet,150.50,3.5
+June,Cologne,Lift,249.00,4.5
+June,Rhodes,Yorkshire Airlines,149.99,4
+June,Alicante,JetWay,215.50,4
+June,Paris,Barry Air,249.00,3.5
+June,Alicante,Yorkshire Airlines,149.99,4
+June,Rhodes,Lift,149.99,4.5
+June,Dublin,Lift,249.00,4.5
+June,Athens,Yorkshire Airlines,249.00,4
+June,Alicante,Barry Air,150.50,3.5
+June,Rhodes,Barry Air,48.99,3.5
+June,Alicante,Barry Air,215.50,3.5
+June,Rhodes,JetWay,99.00,4
+June,Athens,Yorkshire Airlines,99.00,4
+June,Dublin,JetWay,80.00,4
+June,Alicante,JetWay,149.99,4
+June,Rhodes,Lift,99.00,4.5
+June,Amsterdam,Super Jet,149.99,3.5
+June,Dublin,Lift,215.50,4.5
+June,Alicante,Super Jet,149.99,3.5
+June,Athens,Barry Air,149.99,3.5
+June,Paris,Lift,150.50,4.5
+June,Alicante,Yorkshire Airlines,99.00,4
+June,Alicante,JetWay,150.50,4
+June,Alicante,Yorkshire Airlines,150.50,4
+June,Athens,JetWay,215.50,4
+June,Dublin,Yorkshire Airlines,150.50,4
+June,Alicante,Super Jet,99.00,3.5
+June,Athens,Barry Air,149.99,3.5
+June,Rhodes,Super Jet,99.00,3.5
+June,Paris,Yorkshire Airlines,99.00,4
+June,Cologne,Yorkshire Airlines,215.50,4
+June,Amsterdam,Super Jet,150.50,3.5
+June,Alicante,JetWay,80.00,4
+June,Alicante,Barry Air,150.50,3.5
+June,Athens,Yorkshire Airlines,48.99,4
+June,Dublin,Yorkshire Airlines,149.99,4
+June,Athens,Super Jet,149.99,3.5
+June,Dublin,Yorkshire Airlines,215.50,4
+June,Paris,Barry Air,149.99,3.5
+June,Cologne,Barry Air,149.99,3.5
+June,Cologne,JetWay,80.00,4
+June,Budapest,JetWay,150.50,4
+June,Munich,Super Jet,80.00,3.5
+June,Paris,Lift,150.50,4.5
+June,Rhodes,Super Jet,99.00,3.5
+June,Amsterdam,JetWay,99.00,4
+June,Paris,Barry Air,149.99,3.5
+June,Munich,Barry Air,149.99,3.5
+June,Munich,JetWay,149.99,4
+June,Cologne,Barry Air,80.00,3.5
+June,Alicante,Lift,150.50,4.5
+June,Alicante,Super Jet,99.00,3.5
+June,Paris,Yorkshire Airlines,48.99,4
+June,Cologne,Yorkshire Airlines,99.00,4
+June,Athens,Barry Air,80.00,3.5
+June,Alicante,JetWay,149.99,4
+June,Athens,JetWay,249.00,4
+June,Munich,Lift,149.99,4.5
+June,Amsterdam,JetWay,99.00,4
+June,Alicante,Super Jet,99.00,3.5
+June,Rhodes,Super Jet,99.00,3.5
+June,Athens,JetWay,215.50,4
+June,Athens,JetWay,249.00,4
+June,Rhodes,Lift,215.50,4.5
+June,Dublin,Barry Air,99.00,3.5
+June,Athens,Yorkshire Airlines,48.99,4
+June,Budapest,Barry Air,48.99,3.5
+June,Athens,Barry Air,249.00,3.5
+June,Rhodes,Super Jet,150.50,3.5
+June,Budapest,JetWay,150.50,4
+July,Paris,Barry Air,249.00,3.5
+July,Alicante,Super Jet,99.00,3.5
+July,Alicante,Super Jet,99.00,3.5
+July,Amsterdam,Yorkshire Airlines,99.00,4
+July,Athens,Barry Air,99.00,3.5
+July,Paris,Super Jet,99.00,3.5
+July,Rhodes,Barry Air,99.00,3.5
+July,Rhodes,Lift,99.00,4.5
+July,Munich,JetWay,48.99,4
+July,Rhodes,Barry Air,150.50,3.5
+July,Rhodes,Lift,215.50,4.5
+July,Alicante,JetWay,149.99,4
+July,Amsterdam,Yorkshire Airlines,150.50,4
+July,Athens,Barry Air,150.50,3.5
+July,Athens,Yorkshire Airlines,149.99,4
+July,Budapest,Lift,80.00,4.5
+July,Budapest,JetWay,215.50,4
+July,Alicante,Super Jet,149.99,3.5
+July,Paris,Super Jet,150.50,3.5
+July,Rhodes,Super Jet,80.00,3.5
+July,Munich,Lift,99.00,4.5
+July,Rhodes,Lift,149.99,4.5
+July,Paris,Yorkshire Airlines,48.99,4
+July,Athens,Lift,149.99,4.5
+July,Alicante,Yorkshire Airlines,80.00,4
+July,Cologne,Barry Air,99.00,3.5
+July,Alicante,Super Jet,80.00,3.5
+July,Amsterdam,Lift,215.50,4.5
+July,Alicante,JetWay,80.00,4
+July,Munich,Super Jet,48.99,3.5
+July,Alicante,Super Jet,149.99,3.5
+July,Dublin,Lift,149.99,4.5
+July,Rhodes,Super Jet,150.50,3.5
+July,Alicante,Lift,150.50,4.5
+July,Alicante,Yorkshire Airlines,99.00,4
+July,Athens,Lift,215.50,4.5
+July,Athens,Lift,249.00,4.5
+July,Munich,Yorkshire Airlines,249.00,4
+July,Rhodes,Yorkshire Airlines,150.50,4
+July,Amsterdam,Lift,149.99,4.5
+July,Alicante,JetWay,150.50,4
+July,Alicante,JetWay,149.99,4
+July,Rhodes,Barry Air,48.99,3.5
+July,Dublin,Yorkshire Airlines,99.00,4
+July,Dublin,Barry Air,249.00,3.5
+July,Alicante,JetWay,215.50,4
+July,Amsterdam,Yorkshire Airlines,99.00,4
+July,Alicante,Lift,215.50,4.5
+July,Rhodes,Super Jet,215.50,3.5
+July,Rhodes,Yorkshire Airlines,150.50,4
+July,Athens,Yorkshire Airlines,150.50,4
+July,Alicante,Super Jet,150.50,3.5
+July,Alicante,Super Jet,249.00,3.5
+July,Paris,JetWay,150.50,4
+July,Alicante,Yorkshire Airlines,80.00,4
+July,Dublin,Yorkshire Airlines,150.50,4
+July,Paris,Yorkshire Airlines,99.00,4
+July,Athens,Barry Air,149.99,3.5
+July,Rhodes,Yorkshire Airlines,80.00,4
+July,Alicante,Lift,150.50,4.5
+July,Cologne,Yorkshire Airlines,99.00,4
+July,Athens,Barry Air,48.99,3.5
+July,Rhodes,Lift,149.99,4.5
+July,Alicante,Barry Air,150.50,3.5
+July,Cologne,Super Jet,99.00,3.5
+July,Rhodes,JetWay,99.00,4
+July,Rhodes,Yorkshire Airlines,48.99,4
+July,Cologne,Yorkshire Airlines,215.50,4
+July,Amsterdam,JetWay,150.50,4
+July,Budapest,Yorkshire Airlines,80.00,4
+July,Alicante,Barry Air,149.99,3.5
+July,Dublin,Super Jet,150.50,3.5
+July,Cologne,Super Jet,150.50,3.5
+July,Athens,Super Jet,99.00,3.5
+July,Budapest,Lift,249.00,4.5
+July,Athens,JetWay,215.50,4
+July,Alicante,Yorkshire Airlines,99.00,4
+July,Athens,Yorkshire Airlines,80.00,4
+July,Budapest,JetWay,80.00,4
+July,Budapest,Super Jet,150.50,3.5
+July,Alicante,Lift,99.00,4.5
+July,Cologne,JetWay,149.99,4
+July,Alicante,Super Jet,150.50,3.5
+July,Alicante,Super Jet,99.00,3.5
+July,Paris,Super Jet,150.50,3.5
+July,Amsterdam,Barry Air,150.50,3.5
+July,Rhodes,Lift,48.99,4.5
+July,Rhodes,Super Jet,48.99,3.5
+July,Alicante,Barry Air,150.50,3.5
+July,Alicante,Barry Air,150.50,3.5
+July,Athens,Barry Air,150.50,3.5
+July,Munich,JetWay,150.50,4
+July,Alicante,Lift,150.50,4.5
+July,Rhodes,Lift,149.99,4.5
+July,Dublin,Lift,249.00,4.5
+July,Athens,Yorkshire Airlines,215.50,4
+July,Paris,Yorkshire Airlines,249.00,4
+July,Budapest,Super Jet,80.00,3.5
+July,Athens,JetWay,150.50,4
+July,Alicante,JetWay,249.00,4
+July,Munich,Super Jet,48.99,3.5
+July,Rhodes,Yorkshire Airlines,80.00,4
+July,Alicante,JetWay,215.50,4
+July,Munich,Lift,150.50,4.5
+July,Rhodes,Barry Air,149.99,3.5
+July,Munich,Lift,215.50,4.5
+July,Alicante,Yorkshire Airlines,150.50,4
+July,Alicante,Super Jet,150.50,3.5
+July,Athens,Super Jet,48.99,3.5
+July,Alicante,Yorkshire Airlines,99.00,4
+July,Munich,Super Jet,150.50,3.5
+July,Budapest,Super Jet,249.00,3.5
+July,Athens,JetWay,215.50,4
+July,Athens,JetWay,149.99,4
+July,Alicante,JetWay,99.00,4
+July,Athens,Yorkshire Airlines,80.00,4
+July,Dublin,Super Jet,150.50,3.5
+July,Cologne,Yorkshire Airlines,149.99,4
+July,Athens,JetWay,99.00,4
+July,Athens,Lift,80.00,4.5
+July,Munich,JetWay,215.50,4
+July,Cologne,Lift,149.99,4.5
+July,Munich,Barry Air,48.99,3.5
+July,Alicante,Barry Air,150.50,3.5
+July,Amsterdam,Yorkshire Airlines,150.50,4
+July,Rhodes,JetWay,149.99,4
+July,Rhodes,Yorkshire Airlines,249.00,4
+July,Budapest,Lift,149.99,4.5
+July,Alicante,Barry Air,149.99,3.5
+August,Amsterdam,Barry Air,150.50,3.5
+August,Munich,Super Jet,249.00,3.5
+August,Rhodes,Super Jet,99.00,3.5
+August,Munich,JetWay,215.50,4
+August,Rhodes,Yorkshire Airlines,215.50,4
+August,Cologne,Yorkshire Airlines,99.00,4
+August,Alicante,Barry Air,150.50,3.5
+August,Cologne,Lift,215.50,4.5
+August,Athens,JetWay,150.50,4
+August,Alicante,Lift,80.00,4.5
+August,Cologne,JetWay,150.50,4
+August,Rhodes,Super Jet,249.00,3.5
+August,Amsterdam,Barry Air,150.50,3.5
+August,Athens,Super Jet,99.00,3.5
+August,Munich,Super Jet,150.50,3.5
+August,Alicante,JetWay,80.00,4
+August,Alicante,Lift,149.99,4.5
+August,Alicante,Barry Air,150.50,3.5
+August,Budapest,Barry Air,48.99,3.5
+August,Budapest,Yorkshire Airlines,150.50,4
+August,Budapest,Super Jet,215.50,3.5
+August,Rhodes,Yorkshire Airlines,149.99,4
+August,Alicante,Barry Air,215.50,3.5
+August,Rhodes,Lift,249.00,4.5
+August,Rhodes,Yorkshire Airlines,149.99,4
+August,Paris,Barry Air,48.99,3.5
+August,Paris,Super Jet,149.99,3.5
+August,Athens,Lift,150.50,4.5
+August,Athens,Yorkshire Airlines,99.00,4
+August,Alicante,Barry Air,149.99,3.5
+August,Alicante,Lift,99.00,4.5
+August,Cologne,Yorkshire Airlines,48.99,4
+August,Munich,Barry Air,80.00,3.5
+August,Dublin,Super Jet,99.00,3.5
+August,Paris,Yorkshire Airlines,99.00,4
+August,Alicante,Super Jet,80.00,3.5
+August,Rhodes,Barry Air,249.00,3.5
+August,Cologne,Barry Air,99.00,3.5
+August,Dublin,Yorkshire Airlines,149.99,4
+August,Alicante,Lift,149.99,4.5
+August,Alicante,Barry Air,48.99,3.5
+August,Cologne,Super Jet,215.50,3.5
+August,Athens,Yorkshire Airlines,215.50,4
+August,Alicante,Lift,150.50,4.5
+August,Budapest,Lift,48.99,4.5
+August,Amsterdam,Lift,150.50,4.5
+August,Alicante,JetWay,48.99,4
+August,Alicante,JetWay,48.99,4
+August,Rhodes,JetWay,149.99,4
+August,Munich,Yorkshire Airlines,99.00,4
+August,Munich,Lift,150.50,4.5
+August,Amsterdam,Yorkshire Airlines,215.50,4
+August,Munich,JetWay,99.00,4
+August,Cologne,JetWay,149.99,4
+August,Cologne,Super Jet,150.50,3.5
+August,Dublin,Lift,80.00,4.5
+August,Cologne,Lift,149.99,4.5
+August,Rhodes,Super Jet,149.99,3.5
+August,Alicante,JetWay,99.00,4
+August,Amsterdam,Barry Air,150.50,3.5
+August,Paris,Yorkshire Airlines,99.00,4
+August,Rhodes,Yorkshire Airlines,99.00,4
+August,Alicante,Barry Air,80.00,3.5
+August,Alicante,Super Jet,150.50,3.5
+August,Alicante,JetWay,48.99,4
+August,Alicante,Barry Air,249.00,3.5
+August,Munich,Barry Air,99.00,3.5
+August,Athens,Super Jet,149.99,3.5
+August,Budapest,Super Jet,249.00,3.5
+August,Alicante,Yorkshire Airlines,150.50,4
+August,Rhodes,Super Jet,99.00,3.5
+August,Budapest,JetWay,149.99,4
+August,Dublin,Lift,80.00,4.5
+August,Cologne,Barry Air,99.00,3.5
+August,Rhodes,Barry Air,99.00,3.5
+August,Rhodes,JetWay,150.50,4
+August,Rhodes,JetWay,99.00,4
+August,Dublin,Yorkshire Airlines,215.50,4
+August,Cologne,Barry Air,99.00,3.5
+August,Budapest,Super Jet,149.99,3.5
+August,Alicante,Barry Air,150.50,3.5
+August,Dublin,Lift,99.00,4.5
+August,Athens,Super Jet,99.00,3.5
+August,Athens,Super Jet,48.99,3.5
+August,Alicante,Yorkshire Airlines,249.00,4
+August,Paris,Lift,48.99,4.5
+August,Athens,JetWay,249.00,4
+August,Dublin,Yorkshire Airlines,149.99,4
+August,Amsterdam,JetWay,150.50,4
+August,Amsterdam,Lift,99.00,4.5
+August,Rhodes,Yorkshire Airlines,249.00,4
+August,Amsterdam,JetWay,149.99,4
+August,Munich,Barry Air,80.00,3.5
+August,Paris,Yorkshire Airlines,215.50,4
+August,Alicante,Lift,150.50,4.5
+August,Athens,Barry Air,215.50,3.5
+August,Munich,Yorkshire Airlines,99.00,4
+August,Alicante,Barry Air,215.50,3.5
+August,Cologne,Barry Air,150.50,3.5
+August,Paris,Barry Air,249.00,3.5
+August,Rhodes,JetWay,99.00,4
+August,Athens,JetWay,99.00,4
+August,Rhodes,Lift,149.99,4.5
+August,Paris,JetWay,150.50,4
+August,Munich,JetWay,80.00,4
+August,Athens,JetWay,215.50,4
+August,Alicante,Super Jet,150.50,3.5
+August,Alicante,Yorkshire Airlines,150.50,4
+August,Athens,Yorkshire Airlines,149.99,4
+August,Amsterdam,Super Jet,149.99,3.5
+August,Munich,Barry Air,149.99,3.5
+August,Rhodes,Lift,150.50,4.5
+August,Alicante,Super Jet,249.00,3.5
+August,Paris,Lift,99.00,4.5
+August,Budapest,Lift,99.00,4.5
+August,Paris,JetWay,99.00,4
+August,Rhodes,Super Jet,48.99,3.5
+August,Rhodes,Super Jet,149.99,3.5
+August,Amsterdam,Yorkshire Airlines,249.00,4
+August,Alicante,Lift,80.00,4.5
+August,Rhodes,Barry Air,150.50,3.5
+August,Dublin,Yorkshire Airlines,150.50,4
+August,Paris,JetWay,150.50,4
+August,Athens,Lift,149.99,4.5
+August,Athens,Yorkshire Airlines,99.00,4
+August,Rhodes,Yorkshire Airlines,150.50,4
+August,Rhodes,Lift,249.00,4.5
+August,Budapest,Super Jet,150.50,3.5
+August,Paris,Yorkshire Airlines,149.99,4
+August,Alicante,JetWay,48.99,4
+August,Alicante,Lift,249.00,4.5
+August,Dublin,Yorkshire Airlines,80.00,4
+August,Rhodes,Lift,149.99,4.5
+August,Paris,Lift,99.00,4.5
+August,Alicante,Barry Air,150.50,3.5
+August,Munich,Lift,149.99,4.5
+August,Athens,Super Jet,215.50,3.5
+August,Athens,JetWay,249.00,4
+August,Alicante,Lift,99.00,4.5
+August,Budapest,Yorkshire Airlines,150.50,4
+August,Munich,Barry Air,80.00,3.5
+August,Athens,Super Jet,149.99,3.5
+August,Cologne,Yorkshire Airlines,149.99,4
+August,Paris,Yorkshire Airlines,48.99,4
+August,Dublin,Super Jet,150.50,3.5
+August,Dublin,Barry Air,150.50,3.5
+August,Budapest,Super Jet,80.00,3.5
+August,Alicante,Lift,48.99,4.5
+August,Cologne,Barry Air,80.00,3.5
+August,Alicante,Yorkshire Airlines,150.50,4
+August,Amsterdam,Super Jet,215.50,3.5
+August,Munich,Yorkshire Airlines,249.00,4
+August,Dublin,Barry Air,99.00,3.5
+August,Rhodes,Yorkshire Airlines,150.50,4
+August,Alicante,Yorkshire Airlines,215.50,4
+August,Amsterdam,Super Jet,99.00,3.5
+August,Alicante,Super Jet,99.00,3.5
+August,Rhodes,Yorkshire Airlines,150.50,4
+August,Paris,Barry Air,99.00,3.5
+August,Rhodes,JetWay,249.00,4
+August,Rhodes,Lift,99.00,4.5
+August,Dublin,Lift,149.99,4.5
+August,Cologne,Barry Air,150.50,3.5
+August,Cologne,Yorkshire Airlines,149.99,4
+August,Athens,Super Jet,149.99,3.5
+August,Munich,JetWay,150.50,4
+August,Athens,JetWay,150.50,4
+September,Cologne,Super Jet,149.99,3.5
+September,Cologne,Yorkshire Airlines,99.00,4
+September,Rhodes,JetWay,150.50,4
+September,Alicante,Lift,149.99,4.5
+September,Dublin,Barry Air,215.50,3.5
+September,Athens,Lift,215.50,4.5
+September,Athens,JetWay,150.50,4
+September,Athens,Barry Air,99.00,3.5
+September,Budapest,Lift,80.00,4.5
+September,Rhodes,Barry Air,80.00,3.5
+September,Alicante,Super Jet,99.00,3.5
+September,Alicante,Lift,99.00,4.5
+September,Budapest,JetWay,80.00,4
+September,Athens,Lift,149.99,4.5
+September,Alicante,Yorkshire Airlines,48.99,4
+September,Dublin,Lift,99.00,4.5
+September,Amsterdam,JetWay,48.99,4
+September,Athens,JetWay,215.50,4
+September,Athens,Super Jet,99.00,3.5
+September,Athens,Yorkshire Airlines,48.99,4
+September,Alicante,Lift,150.50,4.5
+September,Cologne,Yorkshire Airlines,80.00,4
+September,Cologne,Yorkshire Airlines,150.50,4
+September,Rhodes,Lift,150.50,4.5
+September,Rhodes,Super Jet,149.99,3.5
+September,Athens,Lift,99.00,4.5
+September,Cologne,JetWay,99.00,4
+September,Budapest,JetWay,99.00,4
+September,Munich,JetWay,80.00,4
+September,Athens,Super Jet,249.00,3.5
+September,Cologne,JetWay,48.99,4
+September,Athens,Super Jet,150.50,3.5
+September,Alicante,Yorkshire Airlines,215.50,4
+September,Alicante,JetWay,48.99,4
+September,Athens,JetWay,149.99,4
+September,Paris,JetWay,99.00,4
+September,Munich,Barry Air,215.50,3.5
+September,Athens,Barry Air,99.00,3.5
+September,Alicante,JetWay,149.99,4
+September,Alicante,Super Jet,48.99,3.5
+September,Cologne,Yorkshire Airlines,150.50,4
+September,Alicante,Lift,249.00,4.5
+September,Rhodes,Yorkshire Airlines,99.00,4
+September,Cologne,Lift,149.99,4.5
+September,Paris,JetWay,99.00,4
+September,Budapest,Super Jet,99.00,3.5
+September,Alicante,Yorkshire Airlines,99.00,4
+September,Cologne,Yorkshire Airlines,215.50,4
+September,Athens,JetWay,149.99,4
+September,Athens,Barry Air,150.50,3.5
+September,Athens,JetWay,150.50,4
+September,Alicante,Lift,80.00,4.5
+September,Budapest,Yorkshire Airlines,149.99,4
+September,Alicante,Yorkshire Airlines,80.00,4
+September,Munich,Super Jet,215.50,3.5
+October,Munich,Super Jet,149.99,3.5
+October,Budapest,JetWay,150.50,4
+October,Rhodes,Lift,99.00,4.5
+October,Athens,Lift,149.99,4.5
+October,Alicante,Super Jet,150.50,3.5
+October,Alicante,Yorkshire Airlines,99.00,4
+October,Budapest,JetWay,149.99,4
+October,Munich,Lift,149.99,4.5
+October,Cologne,Yorkshire Airlines,80.00,4
+October,Amsterdam,Super Jet,150.50,3.5
+October,Cologne,Yorkshire Airlines,149.99,4
+October,Amsterdam,Lift,215.50,4.5
+October,Budapest,Super Jet,215.50,3.5
+October,Munich,Yorkshire Airlines,149.99,4
+October,Amsterdam,JetWay,249.00,4
+October,Athens,JetWay,149.99,4
+October,Alicante,Lift,149.99,4.5
+October,Budapest,Barry Air,215.50,3.5
+October,Paris,Super Jet,48.99,3.5
+October,Alicante,Lift,99.00,4.5
+October,Paris,Yorkshire Airlines,215.50,4
+October,Budapest,Barry Air,149.99,3.5
+October,Athens,Barry Air,249.00,3.5
+October,Alicante,Lift,80.00,4.5
+October,Budapest,JetWay,249.00,4
+October,Alicante,JetWay,215.50,4
+October,Rhodes,Super Jet,149.99,3.5
+October,Budapest,Lift,149.99,4.5
+October,Cologne,Barry Air,99.00,3.5
+October,Amsterdam,Lift,80.00,4.5
+October,Rhodes,Yorkshire Airlines,48.99,4
+October,Budapest,Lift,48.99,4.5
+October,Rhodes,Lift,215.50,4.5
+October,Cologne,Super Jet,150.50,3.5
+October,Athens,JetWay,149.99,4
+October,Rhodes,Super Jet,215.50,3.5
+October,Paris,Yorkshire Airlines,99.00,4
+October,Rhodes,Super Jet,99.00,3.5
+October,Athens,Lift,150.50,4.5
+October,Paris,Super Jet,150.50,3.5
+October,Alicante,Yorkshire Airlines,99.00,4
+October,Alicante,Lift,150.50,4.5
+October,Cologne,Super Jet,150.50,3.5
+October,Alicante,Super Jet,249.00,3.5
+October,Athens,Barry Air,249.00,3.5
+October,Cologne,JetWay,249.00,4
+October,Alicante,Yorkshire Airlines,149.99,4
+October,Amsterdam,Lift,149.99,4.5
+October,Dublin,JetWay,48.99,4
+October,Alicante,Yorkshire Airlines,48.99,4
+October,Paris,Lift,149.99,4.5
+October,Paris,JetWay,99.00,4
+October,Athens,Barry Air,48.99,3.5
+November,Alicante,Lift,80.00,4.5
+November,Alicante,Yorkshire Airlines,150.50,4
+November,Athens,Super Jet,48.99,3.5
+November,Rhodes,Lift,48.99,4.5
+November,Athens,Lift,48.99,4.5
+November,Rhodes,Barry Air,80.00,3.5
+November,Alicante,Yorkshire Airlines,48.99,4
+November,Munich,Super Jet,48.99,3.5
+November,Alicante,JetWay,150.50,4
+November,Alicante,Super Jet,150.50,3.5
+November,Budapest,Barry Air,99.00,3.5
+November,Paris,Lift,215.50,4.5
+November,Athens,Lift,150.50,4.5
+November,Alicante,Barry Air,150.50,3.5
+November,Amsterdam,Super Jet,149.99,3.5
+November,Athens,Yorkshire Airlines,80.00,4
+November,Rhodes,Barry Air,215.50,3.5
+November,Rhodes,Super Jet,48.99,3.5
+November,Cologne,Lift,149.99,4.5
+November,Cologne,Super Jet,215.50,3.5
+November,Alicante,JetWay,150.50,4
+November,Alicante,Barry Air,150.50,3.5
+November,Athens,Super Jet,48.99,3.5
+November,Amsterdam,Yorkshire Airlines,149.99,4
+November,Rhodes,Super Jet,80.00,3.5
+November,Athens,Yorkshire Airlines,150.50,4
+November,Alicante,Super Jet,48.99,3.5
+November,Athens,Barry Air,48.99,3.5
+November,Alicante,Yorkshire Airlines,99.00,4
+November,Paris,JetWay,80.00,4
+November,Alicante,Super Jet,150.50,3.5
+November,Amsterdam,Lift,249.00,4.5
+November,Alicante,Lift,99.00,4.5
+November,Alicante,Super Jet,48.99,3.5
+November,Alicante,Lift,150.50,4.5
+November,Rhodes,Super Jet,150.50,3.5
+November,Dublin,Barry Air,150.50,3.5
+November,Amsterdam,JetWay,150.50,4
+November,Dublin,Lift,150.50,4.5
+November,Rhodes,Super Jet,80.00,3.5
+November,Alicante,JetWay,150.50,4
+November,Alicante,JetWay,99.00,4
+November,Munich,Lift,150.50,4.5
+November,Dublin,Yorkshire Airlines,149.99,4
+November,Rhodes,Yorkshire Airlines,99.00,4
+November,Athens,Yorkshire Airlines,150.50,4
+November,Munich,Super Jet,99.00,3.5
+November,Athens,Barry Air,150.50,3.5
+November,Rhodes,Super Jet,150.50,3.5
+November,Dublin,Lift,99.00,4.5
+November,Dublin,Yorkshire Airlines,99.00,4
+November,Budapest,JetWay,149.99,4
+December,Paris,Barry Air,80.00,3.5
+December,Munich,JetWay,48.99,4
+December,Rhodes,Barry Air,249.00,3.5
+December,Amsterdam,Super Jet,149.99,3.5
+December,Alicante,Barry Air,150.50,3.5
+December,Alicante,Lift,249.00,4.5
+December,Cologne,Super Jet,48.99,3.5
+December,Athens,Lift,48.99,4.5
+December,Alicante,Super Jet,150.50,3.5
+December,Amsterdam,Lift,149.99,4.5
+December,Athens,JetWay,150.50,4
+December,Budapest,Barry Air,99.00,3.5
+December,Budapest,Lift,48.99,4.5
+December,Rhodes,JetWay,149.99,4
+December,Athens,Yorkshire Airlines,149.99,4
+December,Munich,Yorkshire Airlines,149.99,4
+December,Paris,Yorkshire Airlines,80.00,4
+December,Athens,Lift,149.99,4.5
+December,Munich,JetWay,215.50,4
+December,Athens,Super Jet,99.00,3.5
+December,Alicante,Lift,48.99,4.5
+December,Dublin,JetWay,99.00,4
+December,Alicante,JetWay,149.99,4
+December,Rhodes,Yorkshire Airlines,150.50,4
+December,Budapest,JetWay,150.50,4
+December,Athens,Yorkshire Airlines,150.50,4
+December,Paris,Super Jet,149.99,3.5
+December,Athens,Yorkshire Airlines,150.50,4
+December,Rhodes,JetWay,149.99,4
+December,Alicante,Yorkshire Airlines,80.00,4
+December,Amsterdam,Yorkshire Airlines,249.00,4
+December,Munich,JetWay,215.50,4
+December,Alicante,Lift,99.00,4.5
+December,Athens,JetWay,149.99,4
+December,Athens,Super Jet,215.50,3.5
+December,Budapest,Lift,150.50,4.5
+December,Rhodes,Lift,149.99,4.5
+December,Alicante,Yorkshire Airlines,80.00,4
+December,Rhodes,Yorkshire Airlines,80.00,4
+December,Rhodes,JetWay,80.00,4
+December,Munich,JetWay,150.50,4
+December,Alicante,Barry Air,215.50,3.5
+December,Rhodes,Super Jet,249.00,3.5
+December,Budapest,JetWay,249.00,4
+December,Cologne,Barry Air,215.50,3.5
+December,Rhodes,JetWay,99.00,4
+December,Alicante,Super Jet,249.00,3.5
+December,Alicante,JetWay,48.99,4
+December,Paris,Yorkshire Airlines,149.99,4
+December,Alicante,Lift,48.99,4.5
+December,Dublin,Super Jet,150.50,3.5
+December,Amsterdam,Super Jet,149.99,3.5
+December,Budapest,Yorkshire Airlines,249.00,4
+December,Dublin,Super Jet,99.00,3.5
+December,Rhodes,Yorkshire Airlines,80.00,4
+December,Rhodes,Super Jet,150.50,3.5
+December,Athens,Barry Air,149.99,3.5
+December,Alicante,Barry Air,150.50,3.5
+December,Athens,Lift,149.99,4.5
+December,Budapest,Super Jet,99.00,3.5
+December,Athens,Lift,150.50,4.5
+December,Cologne,JetWay,99.00,4
+December,Rhodes,Yorkshire Airlines,150.50,4
+December,Amsterdam,Lift,80.00,4.5
+December,Dublin,Barry Air,150.50,3.5
+December,Paris,Super Jet,80.00,3.5
+December,Alicante,JetWay,249.00,4
+December,Alicante,Super Jet,149.99,3.5
+December,Alicante,Yorkshire Airlines,149.99,4
+December,Alicante,JetWay,99.00,4
+December,Budapest,Yorkshire Airlines,80.00,4
+December,Alicante,Barry Air,48.99,3.5
+December,Alicante,Super Jet,99.00,3.5
+December,Alicante,Super Jet,99.00,3.5
+December,Cologne,JetWay,99.00,4
+December,Munich,JetWay,150.50,4
+December,Alicante,JetWay,249.00,4
+December,Dublin,Yorkshire Airlines,150.50,4
+December,Munich,Barry Air,80.00,3.5
+December,Athens,Lift,99.00,4.5
+December,Dublin,Barry Air,150.50,3.5
+December,Munich,Barry Air,48.99,3.5
+December,Paris,Super Jet,249.00,3.5
+December,Alicante,JetWay,150.50,4
+December,Alicante,Super Jet,149.99,3.5
+December,Amsterdam,Lift,99.00,4.5
+December,Paris,Barry Air,249.00,3.5
+December,Munich,Barry Air,99.00,3.5
+December,Alicante,Yorkshire Airlines,249.00,4
+December,Munich,Lift,80.00,4.5
+December,Athens,Yorkshire Airlines,99.00,4
+December,Amsterdam,JetWay,215.50,4
+December,Rhodes,Lift,48.99,4.5
+December,Alicante,JetWay,149.99,4
+December,Athens,Super Jet,48.99,3.5
+December,Alicante,Super Jet,150.50,3.5
+December,Alicante,Super Jet,48.99,3.5
+December,Dublin,Lift,80.00,4.5
+December,Rhodes,Yorkshire Airlines,99.00,4
+December,Amsterdam,Super Jet,150.50,3.5
+December,Dublin,Yorkshire Airlines,48.99,4
+December,Athens,Yorkshire Airlines,215.50,4
+December,Athens,JetWay,48.99,4
+December,Alicante,Super Jet,80.00,3.5
+December,Athens,JetWay,215.50,4
+December,Dublin,Lift,149.99,4.5
+December,Munich,JetWay,80.00,4
+December,Athens,Yorkshire Airlines,80.00,4
+December,Alicante,Lift,215.50,4.5
+December,Budapest,Super Jet,99.00,3.5
+December,Athens,Yorkshire Airlines,99.00,4
+December,Paris,Super Jet,215.50,3.5
+December,Munich,Barry Air,215.50,3.5
+December,Dublin,Barry Air,149.99,3.5
+December,Alicante,Lift,48.99,4.5
+December,Paris,Yorkshire Airlines,150.50,4
+December,Amsterdam,JetWay,80.00,4
+December,Rhodes,Barry Air,150.50,3.5
+December,Dublin,Lift,48.99,4.5
+December,Alicante,Yorkshire Airlines,99.00,4
+December,Budapest,Barry Air,150.50,3.5
+December,Athens,Barry Air,80.00,3.5
+December,Munich,Lift,48.99,4.5
+December,Athens,JetWay,99.00,4
+December,Munich,Yorkshire Airlines,48.99,4
+December,Alicante,JetWay,150.50,4
+December,Rhodes,Super Jet,150.50,3.5
+December,Alicante,Super Jet,149.99,3.5
+December,Munich,Yorkshire Airlines,149.99,4
+December,Alicante,Yorkshire Airlines,150.50,4
+December,Munich,Super Jet,149.99,3.5
+December,Rhodes,Super Jet,150.50,3.5
+December,Alicante,Lift,149.99,4.5
+December,Rhodes,JetWay,215.50,4
