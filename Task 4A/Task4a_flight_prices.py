@@ -19,6 +19,7 @@ def menu():
         print("Paris (CDG)")
         print("Rhodes (RHO)")
         print("######################################################")
+        print("Or press \'#\' to view trends")
 
         #collects and validates user input to ensure choice is in the list
         #converts the collected code to full name
@@ -31,6 +32,9 @@ def menu():
         if menu_choice in code_list:
             airport_postion = code_list.index(menu_choice)
             return airport_list[airport_postion]
+        elif menu_choice == "#":
+            trends()
+            flag = True
         else:
             print("Sorry, you did not enter a valid three letter code")
             flag = True
@@ -66,7 +70,7 @@ def get_date():
                 return travel_date  
 
 def most_popular_destinations(df):
-    popular_destinations = df['Destination'].value_counts().nlargest(5)
+    popular_destinations = df['Desination'].value_counts().nlargest(5) #in the csv given, "Destination" is spelled incorrectly
     popular_destinations.plot(kind='bar')
     plt.xlabel('Destination')
     plt.ylabel('Number of Flights')
@@ -90,19 +94,32 @@ def flights_by_airline(df):
     plt.title('Number of Flights by Airline')
     plt.show()
 
-# Load data and analyze trends and patterns
-data = pd.read_csv("/home/Jack/Documents/SchoolStuff/Task 4A/Task4_data.csv")
+def trends():
+    flag = True
 
-most_popular_destinations(data)
-commission_by_month(data)
-flights_by_airline(data)
+    while flag:
+        # Load data and analyze trends and patterns
+        data = pd.read_csv("/home/Jack/test/Task4a_data.csv")
+        selec = int(input("Do you want to view: \n 1) Most popular destinations \n 2) Commission by month \n 3) Flights by airline \n"))
+        if selec == 1:
+            most_popular_destinations(data)
+            return
+        elif selec == 2:
+            commission_by_month(data)
+            return
+        elif selec == 3:
+            flights_by_airline(data)
+            return
+        else:
+            print("You did not give a valid input")
+            flag = True
 
 destination = menu()
 month = get_date()
 
 #gets the main list of data that matches user search criteia and displays it
 def get_data():
-    df = pd.read_csv("/home/Jack/Documents/SchoolStuff/Task 4A/Task4_data.csv")
+    df = pd.read_csv("/home/Jack/test/Task4a_data.csv")
     extract = df.loc[(df['Month'] == month) & (df['Destination'] == destination), df.columns != "Commission (%)"]
     print("We have found these flights that match your criteria:")
     return extract
