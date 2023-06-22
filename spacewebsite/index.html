@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Team Flight: Journey to New Home</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #212121;
+        }
+        
+        .header {
+            text-align: center;
+            padding: 20px;
+            background-color: #333;
+            color: white;
+        }
+        
+        .content {
+            margin: 20px;
+        }
+        
+        .main-image {
+            max-width: 100%;
+            height: auto;
+            object-fit: cover;
+            margin-right: 39px;
+        }
+        
+        .caption {
+            font-size: 0.8em;
+            color: #777;
+            text-align: left;
+            margin-top: 0;
+        }
+        
+        .text-container {
+            flex: 1;
+            text-align: center;
+        }
+        
+        .cta-button {
+            display: block;
+            width: 200px;
+            height: 50px;
+            margin-top: 20px;
+            background-color: #007BFF;
+            color: white;
+            text-align: center;
+            line-height: 50px;
+            border-radius: 5px;
+            cursor: pointer; 
+        }
+        
+        .login-form {
+            display: none; 
+            margin-top: 20px;
+        }
+        
+        .login-form input {
+            margin-bottom: 10px;
+            width: 100%;
+        }
+        .content-container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin: 20px;
+        }
+
+        .main-content {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            width: 50%;
+        }
+
+        .signup-content {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            width: 40%;
+            padding: 20px;
+            
+            border-radius: 10px;
+        }
+
+        .signupbutton {
+            width: 100%;
+            text-align: center;
+        }
+        .navbar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px;
+            background-color: #333;
+        }
+        
+        .navbar a {
+            color: white;
+            padding: 0 15px;
+            text-decoration: none;
+            font-size: 1.2em;
+        }
+        
+        .navbar a:hover {
+            color: #007BFF;
+        }
+        
+        .navbar .logo {
+            height: 50px;
+            margin-right: auto;
+        }
+    </style>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            var ctaButton = document.querySelector('.cta-button');
+            var loginForm = document.querySelector('.login-form');
+
+            ctaButton.addEventListener('click', function() {
+                loginForm.style.display = 'block'; 
+                ctaButton.style.display = 'none'; 
+            });
+        });
+    </script>
+</head>
+<body>
+    <div class="header">
+        <div class="navbar">
+            <img src="logo.png" alt="Team Flight logo" class="logo">
+            <a href="#">Home</a>
+            <a href="aboutus.html">About Us</a>
+            <a href="faq.html">FAQ</a>
+        </div>
+        <h1>Team Flight</h1>
+        <p>Your Journey to Our New Home Begins Here</p>
+    </div>
+    <div class="content-container">
+        <div class="main-content">
+            <img class="main-image" src="Spaceship.webp" alt="Team Flight Spaceship">
+            <p class="caption">The new model of Team Flight spaceship, The Spacecarrier X V2</p>
+        </div>
+        <div class="signup-content">
+            <div class="signupbutton">
+                <a href="#" class="cta-button">Sign Up Now</a>
+                <form class="login-form">
+                    <input type="text" placeholder="Username">
+                    <input type="password" placeholder="Password">
+                    <button type="submit">Sign up</button>
+                </form>
+            </div>
+        </div>
+    </div>
+        
+        <div class="content">
+        <div class="text-container">
+            <h2>Welcome to Team Flight</h2>
+            <p>3 paragraphs of information</p>
+        </div>
+    </div>
+</body>
+</html>
